@@ -4,5 +4,7 @@ This is a script that teaches you a new slang word a day. The main target audien
 # Instructions
 
 # Disclaimer
+Courier and Urban Dictionary are trademarks of their respective organisations. The author of this repository makes no insinuation of having any ownership in the intellectual property of either Courier or Urban Dictionary. This code is published in an individual capacity and should not be assumed as being representative of any past, present or future employer. Neither Courier or Urban Dictionary are officially associated with this repository.
 
 # Credits
+Babatunde Onabajo (ChurchMapped Limited)
