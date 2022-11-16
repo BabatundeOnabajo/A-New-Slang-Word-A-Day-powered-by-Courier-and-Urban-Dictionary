@@ -3,6 +3,8 @@ This is a script that teaches you a new slang word a day. The main target audien
 
 # Instructions
 
+# Technical Architecture (Diagram)
+
 # Further Details
 Further details can be found on the following here on YouTube:
 
